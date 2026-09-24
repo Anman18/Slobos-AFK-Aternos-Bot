@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheAthexSMP.aternos.me",
+    "port": 49555,
     "version": "",
     "try-creative": false
   },
